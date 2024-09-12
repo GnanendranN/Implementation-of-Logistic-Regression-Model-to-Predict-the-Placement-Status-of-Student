@@ -1,5 +1,4 @@
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
-
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 ## Equipments Required:
@@ -60,6 +59,6 @@ cm_display=metrics.ConfusionMatrixDisplay(confusion_matrix=confusion,display_lab
 cm_display.plot()
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/0a6e6fb3-4c85-4186-9776-286a362fcbb6)
+![image](https://github.com/user-attachments/assets/a6cfb4df-7215-414d-9f56-ddf33e3fa76b)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
